@@ -1,5 +1,5 @@
 :root {
-    --fundo-pagina: #dfe3e8;
+    --fundo-pagina: #171a4a;
     --fundo-caixa: #f0f2f5;
     --fundo-rodape: #e4e8ec;
     --borda: #cdd3da;
@@ -215,7 +215,7 @@ body {
 .sem-resultado {
     grid-column: 1 / -1;
     text-align: center;
-    color: var(--texto-suave);
+    color: #d5d9e8;
     padding: 30px;
 }
 
