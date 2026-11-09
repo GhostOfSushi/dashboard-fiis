@@ -1,0 +1,472 @@
+{
+    "detalhes": [
+        {
+            "dividendYield": 15.62,
+            "fundo": "BCRI11",
+            "maxMes": 67.17,
+            "minMes": 50.53,
+            "proximoRendimento": {
+                "cotaBase": 63.45,
+                "dataBase": "31/10/2025",
+                "dataPag": "14/11/2025",
+                "rendimento": 0.92
+            },
+            "pvp": 0.76,
+            "rendimentoMedio24M": 0.80,
+            "segmento": "Papéis",
+            "setor": "Títulos e Valores Mobiliários",
+            "status": 200,
+            "ultimoRendimento": {
+                "cotaBase": 63.82,
+                "dataBase": "30/09/2025",
+                "dataPag": "15/10/2025",
+                "rendimento": 0.88
+            },
+            "valorAtual": 63.40,
+            "valorPatrimonioPCota": 84.19,
+            "valorizacao": 13.11
+        },
+        {
+            "dividendYield": 13.09,
+            "fundo": "BRCR11",
+            "maxMes": 44.62,
+            "minMes": 35.73,
+            "proximoRendimento": {
+                "cotaBase": 41.35,
+                "dataBase": "07/11/2025",
+                "dataPag": "14/11/2025",
+                "rendimento": 0.41
+            },
+            "pvp": 0.48,
+            "rendimentoMedio24M": 0.4555,
+            "segmento": "Lajes Corporativas",
+            "setor": "Híbrido",
+            "status": 200,
+            "ultimoRendimento": {
+                "cotaBase": 42.96,
+                "dataBase": "07/10/2025",
+                "dataPag": "14/10/2025",
+                "rendimento": 0.41
+            },
+            "valorAtual": 41.43,
+            "valorPatrimonioPCota": 85.06,
+            "valorizacao": 5.61
+        },
+        {
+            "dividendYield": 12.93,
+            "fundo": "CPTS11",
+            "maxMes": 7.69,
+            "minMes": 5.55,
+            "proximoRendimento": {
+                "cotaBase": 7.6,
+                "dataBase": "10/10/2025",
+                "dataPag": "17/11/2025",
+                "rendimento": 0.09
+            },
+            "pvp": 0.85,
+            "rendimentoMedio24M": 0.07755,
+            "segmento": "Papéis",
+            "setor": "Títulos e Valores Mobiliários",
+            "status": 200,
+            "ultimoRendimento": {
+                "cotaBase": 7.6,
+                "dataBase": "10/10/2025",
+                "dataPag": "17/11/2025",
+                "rendimento": 0.09
+            },
+            "valorAtual": 7.54,
+            "valorPatrimonioPCota": 8.89,
+            "valorizacao": 17.63
+        },
+        {
+            "dividendYield": 19.69,
+            "fundo": "DEVA11",
+            "maxMes": 33.62,
+            "minMes": 22.42,
+            "proximoRendimento": {
+                "cotaBase": 25.05,
+                "dataBase": "07/11/2025",
+                "dataPag": "14/11/2024",
+                "rendimento": 0.33
+            },
+            "pvp": 0.26,
+            "rendimentoMedio24M": 0.4595,
+            "segmento": "Papéis",
+            "setor": "Títulos e Valores Mobiliários",
+            "status": 200,
+            "ultimoRendimento": {
+                "cotaBase": 26.6,
+                "dataBase": "07/11/2025",
+                "dataPag": "14/11/2024",
+                "rendimento": 0.35
+            },
+            "valorAtual": 25.06,
+            "valorPatrimonioPCota": 96.62,
+            "valorizacao": -10.47
+        },
+        {
+            "dividendYield": 13.28,
+            "fundo": "GAME11",
+            "maxMes": 8.58,
+            "minMes": 6.99,
+            "proximoRendimento": {
+                "cotaBase": 8.47,
+                "dataBase": "09/10/2025",
+                "dataPag": "21/10/2025",
+                "rendimento": 0.095
+            },
+            "pvp": 0.91,
+            "rendimentoMedio24M": 0.09275,
+            "segmento": "Híbrido",
+            "setor": "Imóveis",
+            "status": 200,
+            "ultimoRendimento": {
+                "cotaBase": 8.47,
+                "dataBase": "09/10/2025",
+                "dataPag": "21/10/2025",
+                "rendimento": 0.095
+            },
+            "valorAtual": 8.55,
+            "valorPatrimonioPCota": 9.35,
+            "valorizacao": 8.23
+        },
+        {
+            "dividendYield":18.21,
+            "fundo": "HABT11",
+            "maxMes": 81.55,
+            "minMes": 59.16,
+            "proximoRendimento": {
+                "cotaBase": 72.44,
+                "dataBase": "31/10/2025",
+                "dataPag": "12/11/2025",
+                "rendimento": 0.95
+            },
+            "pvp":0.74,
+            "rendimentoMedio24M": 1.0355,
+            "segmento": "Papéis",
+            "setor": "Títulos e Valores Mobiliários",
+            "status": 200,
+            "ultimoRendimento": {
+                "cotaBase": 78.61,
+                "dataBase": "31/10/2025",
+                "dataPag": "12/11/2025",
+                "rendimento": 0.95
+            },
+            "valorAtual": 69.43,
+            "valorPatrimonioPCota": 94.49,
+            "valorizacao": 0.25
+        },
+        {
+            "dividendYield": 17.61,
+            "fundo": "HCTR11",
+            "maxMes": 24.23,
+            "minMes": 14.42,
+            "proximoRendimento": {
+                "cotaBase": 21.92,
+                "dataBase": "07/11/2025",
+                "dataPag": "14/11/2025",
+                "rendimento": 0.29
+            },
+            "pvp": 0.21,
+            "rendimentoMedio24M": 0.34336316,
+            "segmento": "Papéis",
+            "setor": "Títulos e Valores Mobiliários",
+            "status": 200,
+            "ultimoRendimento": {
+                "cotaBase": 22.79,
+                "dataBase": "07/11/2025",
+                "dataPag": "14/11/2025",
+                "rendimento": 0.29
+            },
+            "valorAtual": 21.9,
+            "valorPatrimonioPCota": 103.65,
+            "valorizacao": -4.49
+        },
+        {
+            "dividendYield":13.44,
+            "fundo": "IRIM11",
+            "maxMes":74.41,
+            "minMes": 53.24,
+            "proximoRendimento": {
+                "cotaBase": 66.32,
+                "dataBase": "09/10/2025",
+                "dataPag": "16/10/2025",
+                "rendimento": 0.8
+            },
+            "pvp": 0.89,
+            "rendimentoMedio24M": 0.81441225,
+            "segmento": "Fundos de Fundos",
+            "setor": "Híbrido",
+            "status": 200,
+            "ultimoRendimento": {
+                "cotaBase": 66.32,
+                "dataBase": "09/10/2025",
+                "dataPag": "16/10/2025",
+                "rendimento": 0.8
+            },
+            "valorAtual": 74.41,
+            "valorPatrimonioPCota": 83.67,
+            "valorizacao": 24.35
+        },
+        {
+            "dividendYield": 12.49,
+            "fundo": "RBFF11",
+            "maxMes": 52.04,
+            "minMes": 40.06,
+            "proximoRendimento": {
+                "cotaBase": 49.15,
+                "dataBase": "31/10/2025",
+                "dataPag": "14/11/2025",
+                "rendimento": 0.51
+            },
+            "pvp": 0.79,
+            "rendimentoMedio24M": 0.5095,
+            "segmento": "Fundos de Fundos",
+            "setor": "Híbrido",
+            "status": 200,
+            "ultimoRendimento": {
+                "cotaBase": 51.23,
+                "dataBase": "30/09/2025",
+                "dataPag": "15/10/2025",
+                "rendimento": 0.51
+            },
+            "valorAtual": 48.97,
+            "valorPatrimonioPCota": 62.119,
+            "valorizacao": 4.91
+        },
+        {
+            "dividendYield": 13.07,
+            "fundo": "RBRX11",
+            "maxMes": 8.08,
+            "minMes": 6.41,
+            "proximoRendimento": {
+                "cotaBase": 7.82,
+                "dataBase": "14/10/2025",
+                "dataPag": "22/10/2025",
+                "rendimento": 0.09
+            },
+            "pvp": 0.81,
+            "rendimentoMedio24M":0.09030844,
+            "segmento": "Papéis",
+            "setor": "Títulos e Valores Mobiliários",
+            "status": 200,
+            "ultimoRendimento": {
+                "cotaBase": 7.82,
+                "dataBase": "14/10/2025",
+                "dataPag": "22/10/2025",
+                "rendimento": 0.09
+            },
+            "valorAtual": 7.9,
+            "valorPatrimonioPCota": 9.64,
+            "valorizacao": 4.77
+        },
+        {
+            "dividendYield": 15.39,
+            "fundo": "RECR11",
+            "maxMes": 84.47,
+            "minMes": 58.66,
+            "proximoRendimento": {
+                "cotaBase": 78.18,
+                "dataBase": "07/11/2025",
+                "dataPag": "14/11/2025",
+                "rendimento": 0.8037
+            },
+            "pvp": 0.89,
+            "rendimentoMedio24M":0.905935,
+            "segmento": "Papéis",
+            "setor": "Títulos e Valores Mobiliários",
+            "status": 200,
+            "ultimoRendimento": {
+                "cotaBase": 78.18,
+                "dataBase": "07/11/2025",
+                "dataPag": "14/11/2025",
+                "rendimento": 0.8037
+            },
+            "valorAtual": 78.15,
+            "valorPatrimonioPCota": 88.65,
+            "valorizacao": 15.71
+        },
+        {
+            "dividendYield": 12.79,
+            "fundo": "RECT11",
+            "maxMes": 35.4,
+            "minMes": 22.21,
+            "proximoRendimento": {
+                "cotaBase": 35.20,
+                "dataBase": "07/11/2025",
+                "dataPag": "14/11/2025",
+                "rendimento": 0.45
+            },
+            "pvp": 0.37,
+            "rendimentoMedio24M": 0.37067,
+            "segmento": "Lajes Corporativas",
+            "setor": "Imóveis",
+            "status": 200,
+            "ultimoRendimento": {
+                "cotaBase": 35.20,
+                "dataBase": "07/11/2025",
+                "dataPag": "14/11/2025",
+                "rendimento": 0.45
+            },
+            "valorAtual": 35.4,
+            "valorPatrimonioPCota": 90.75,
+            "valorizacao": 34.91
+        },
+        {
+            "dividendYield": 21.37,
+            "fundo": "URPR11",
+            "maxMes":57.85,
+            "minMes": 32.59,
+            "proximoRendimento": {
+                "cotaBase": 33.66,
+                "dataBase": "31/10/2025",
+                "dataPag": "14/11/2025",
+                "rendimento": 0.35
+            },
+            "pvp": 0.34,
+            "rendimentoMedio24M": 0.84,
+            "segmento": "Logística",
+            "setor": "Imóveis",
+            "status": 200,
+            "ultimoRendimento": {
+                "cotaBase": 33.66,
+                "dataBase": "31/10/2025",
+                "dataPag": "14/11/2025",
+                "rendimento": 0.35
+            },
+            "valorAtual": 34.00,
+            "valorPatrimonioPCota": 100.42,
+            "valorizacao": -38.77
+        },
+        {
+            "dividendYield": 14.44,
+            "fundo": "VGHF11",
+            "maxMes": 7.8,
+            "minMes": 6.01,
+            "proximoRendimento": {
+                "cotaBase":7.65,
+                "dataBase": "31/10/2025",
+                "dataPag": "07/11/2025",
+                "rendimento": 0.07
+            },
+            "pvp": 0.86,
+            "rendimentoMedio24M": 0.0905,
+            "segmento": "Papéis",
+            "setor": "Títulos e Valores Mobiliários",
+            "status": 200,
+            "ultimoRendimento": {
+                "cotaBase":7.65,
+                "dataBase": "31/10/2025",
+                "dataPag": "07/11/2025",
+                "rendimento": 0.07
+            },
+            "valorAtual": 7.36,
+            "valorPatrimonioPCota": 8.57,
+            "valorizacao": 5.14
+        },
+        {
+            "dividendYield": 15.29,
+            "fundo": "VGIP11",
+            "maxMes": 83.43,
+            "minMes": 61.20,
+            "proximoRendimento": {
+                "cotaBase": 79.74,
+                "dataBase": "10/10/2025",
+                "dataPag": "17/10/2025",
+                "rendimento": 0.74
+            },
+            "pvp": 0.86,
+            "rendimentoMedio24M": 0.852,
+            "segmento": "Papéis",
+            "setor": "Títulos e Valores Mobiliários",
+            "status": 200,
+            "ultimoRendimento": {
+               "cotaBase": 79.74,
+                "dataBase": "10/10/2025",
+                "dataPag": "17/10/2025",
+                "rendimento": 0.74
+            },
+            "valorAtual": 75.98,
+            "valorPatrimonioPCota": 88.7,
+            "valorizacao": 6.53
+        },
+        {
+            "dividendYield": 15.5,
+            "fundo": "VSLH11",
+            "maxMes": 3.02,
+            "minMes": 2.5,
+            "proximoRendimento": {
+                "cotaBase": 2.61,
+                "dataBase": "07/10/2025",
+                "dataPag": "14/10/2025",
+                "rendimento": 0.029
+            },
+            "pvp": 0.25,
+            "rendimentoMedio24M": 0.03670,
+            "segmento": "Logística",
+            "setor": "Imóveis",
+            "status": 200,
+            "ultimoRendimento": {
+                "cotaBase": 2.61,
+                "dataBase": "07/10/2025",
+                "dataPag": "14/10/2025",
+                "rendimento": 0.029
+            },
+            "valorAtual": 2.52,
+            "valorPatrimonioPCota": 10.04,
+            "valorizacao": -16.56
+        },
+        {
+            "dividendYield": 13.12,
+            "fundo": "XPCI11",
+            "maxMes": 84.92,
+            "minMes": 61.52,
+            "proximoRendimento": {
+                "cotaBase": 83.27,
+                "dataBase": "31/10/2025",
+                "dataPag": "14/11/20254",
+                "rendimento": 0.90
+            },
+            "pvp": 0.93,
+            "rendimentoMedio24M": 0.874,
+            "segmento": "Papéis",
+            "setor": "Títulos e Valores Mobiliários",
+            "status": 200,
+            "ultimoRendimento": {
+                "cotaBase": 76.50,
+                "dataBase": "30/09/2024",
+                "dataPag": "15/10/2024",
+                "rendimento": 0.75
+            },
+            "valorAtual": 81.96,
+            "valorPatrimonioPCota": 88.32,
+            "valorizacao": 14.34
+        },
+        {
+            "dividendYield": 0.93,
+            "fundo": "VPPR11",
+            "maxMes": 15.3,
+            "minMes": 12.1,
+            "proximoRendimento": {
+                "cotaBase": 13.1,
+                "dataBase": "31/12/2024",
+                "dataPag": "15/01/2025",
+                "rendimento": 0.07
+            },
+            "pvp": 0.38,
+            "rendimentoMedio24M": 0.0725,
+            "segmento": "Lajes Corporativas",
+            "setor": "Imóveis",
+            "status": 200,
+            "ultimoRendimento": {
+                "cotaBase": 13.1,
+                "dataBase": "31/12/2024",
+                "dataPag": "15/01/2025",
+                "rendimento": 0.07
+            },
+            "valorAtual": 15.3,
+            "valorPatrimonioPCota": 39.68,
+            "valorizacao": 3.38
+        }
+    ]
+}

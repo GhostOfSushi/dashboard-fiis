@@ -1,0 +1,187 @@
+{
+    "dados_investimentos": {
+        "total_fundos": 20,
+        "detalhes_fundos": [
+            {
+                "fundo": {
+                    "codigo": "bcri",
+                    "informacoes": {
+                        "quantidade": 356,
+                        "preco_medio": 86.06,
+                        "proventos_acumulados": 9306.00
+                    }
+                }
+            },
+            {
+                "fundo": {
+                    "codigo": "brcr",
+                    "informacoes": {
+                        "quantidade": 219,
+                        "preco_medio": 60.11,
+                        "proventos_acumulados": 3467.97
+                    }
+                }
+            },            
+            {
+                "fundo": {
+                    "codigo": "cpts",
+                    "informacoes": {
+                        "quantidade": 5305,
+                        "preco_medio": 8.96,
+                        "proventos_acumulados": 16159.43
+                    }
+                }
+            },
+            {
+                "fundo": {
+                    "codigo": "deva",
+                    "informacoes": {
+                        "quantidade": 606,
+                        "preco_medio": 65.88,
+                        "proventos_acumulados": 9220.00
+                    }
+                }
+            },
+            {
+                "fundo": {
+                    "codigo": "game",
+                    "informacoes": {
+                        "quantidade": 182,
+                        "preco_medio": 8.40,
+                        "proventos_acumulados": 54.59
+                    }
+                }
+            },
+            {
+                "fundo": {
+                    "codigo": "habt",
+                    "informacoes": {
+                        "quantidade": 516,
+                        "preco_medio": 96.74,
+                        "proventos_acumulados": 19507.02
+                    }
+                }
+            },
+            {
+                "fundo": {
+                    "codigo": "hctr",
+                    "informacoes": {
+                        "quantidade": 586,
+                        "preco_medio": 62.60,
+                        "proventos_acumulados": 7163.12
+                    }
+                }
+            },
+            {
+                "fundo": {
+                    "codigo": "irim",
+                    "informacoes": {
+                        "quantidade": 14,
+                        "preco_medio": 66.19,
+                        "proventos_acumulados":7.20
+                    }
+                }
+            },
+            {
+                "fundo": {
+                    "codigo": "rbff",
+                    "informacoes": {
+                        "quantidade": 215,
+                        "preco_medio": 53.67,
+                        "proventos_acumulados": 4007.21
+                    }
+                }
+            },
+            {
+                "fundo": {
+                    "codigo": "rbrx",
+                    "informacoes": {
+                        "quantidade": 85,
+                        "preco_medio": 7.76,
+                        "proventos_acumulados": 3.15
+                    }
+                }
+            },
+            {
+                "fundo": {
+                    "codigo": "recr",
+                    "informacoes": {
+                        "quantidade": 382,
+                        "preco_medio": 91.55,
+                        "proventos_acumulados":11662.54
+                    }
+                }
+            },
+            {
+                "fundo": {
+                    "codigo": "rect",
+                    "informacoes": {
+                        "quantidade": 530,
+                        "preco_medio": 51.57,
+                        "proventos_acumulados": 6587.84
+                    }
+                }
+            },
+            {
+                "fundo": {
+                    "codigo": "urpr",
+                    "informacoes": {
+                        "quantidade": 503,
+                        "preco_medio": 82.21,
+                        "proventos_acumulados":13401.17
+                    }
+                }
+            },
+            {
+                "fundo": {
+                    "codigo": "vghf",
+                    "informacoes": {
+                        "quantidade": 1269,
+                        "preco_medio": 8.77,
+                        "proventos_acumulados": 3395.68
+                    }
+                }
+            },
+            {
+                "fundo": {
+                    "codigo": "vgip",
+                    "informacoes": {
+                        "quantidade": 435,
+                        "preco_medio": 91.76,
+                        "proventos_acumulados": 14255.98
+                    }
+                }
+            },
+            {
+                "fundo": {
+                    "codigo": "vppr",
+                    "informacoes": {
+                        "quantidade": 391,
+                        "preco_medio": 44.98,
+                        "proventos_acumulados": 1775.37
+                    }
+                }
+            },
+            {
+                "fundo": {
+                    "codigo": "vslh",
+                    "informacoes": {
+                        "quantidade": 1992,
+                        "preco_medio": 5.23,
+                        "proventos_acumulados": 1913.87
+                    }
+                }
+            },
+            {
+                "fundo": {
+                    "codigo": "xpci",
+                    "informacoes": {
+                        "quantidade": 483,
+                        "preco_medio": 91.59,
+                        "proventos_acumulados": 16225.92
+                    }
+                }
+            }
+        ]
+    }
+}

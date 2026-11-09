@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard de Fundos Imobiliários</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="banner">
+        <span class="banner-sub">Meus Investimentos</span>
+        <h1>Dashboard de Fundos Imobiliários</h1>
+    </header>
+
+    <main class="container">
+        <section class="kpis">
+            <div class="kpi">
+                <span class="kpi-titulo">Total Investido</span>
+                <strong id="kpi-investido" class="kpi-valor">-</strong>
+            </div>
+            <div class="kpi">
+                <span class="kpi-titulo">Valor Atual da Carteira</span>
+                <strong id="kpi-atual" class="kpi-valor">-</strong>
+            </div>
+            <div class="kpi">
+                <span class="kpi-titulo">Proventos Totais / Mês</span>
+                <strong id="kpi-proventos" class="kpi-valor">-</strong>
+            </div>
+            <div class="kpi">
+                <span class="kpi-titulo">Rendimento Médio</span>
+                <strong id="kpi-rendimento" class="kpi-valor">-</strong>
+            </div>
+        </section>
+
+        <section class="controles">
+            <label for="filtro-setor">Filtrar por Setor:</label>
+            <select id="filtro-setor">
+                <option value="todos">Todos os Setores</option>
+            </select>
+
+            <label for="ordenar-por">Ordenar por:</label>
+            <select id="ordenar-por">
+                <option value="nome">Nome (SIGLA) A - Z</option>
+                <option value="rendimento">Maior Rendimento</option>
+                <option value="dy">Maior DY</option>
+                <option value="pvp">Menor P/VP</option>
+            </select>
+        </section>
+
+        <section id="card-container" class="card-container"></section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
